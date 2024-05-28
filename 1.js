@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // settings
 const outputFile = 'README.md';
-const exceptFolderList = ['.git', '.idea', '.vscode'];
+const exceptFolderList = ['.git', '.idea', '.vscode', 'out'];
 const students = ['김현창', '김희연', '이상학', '지인성'];
 const checkMark = '✔';
 const uncheckMark = '❌';
@@ -45,7 +45,7 @@ function readFiles() {
         ) {
             return;
         }
-        const dirPath = file.path + file.name;
+        const dirPath = './' + file.name;
         problemSet[file.name] = {};
         fs.readdirSync(dirPath, { withFileTypes: true }).forEach((problem) => {
             problemSet[file.name][problem.name] = [];
@@ -70,8 +70,7 @@ function writeMarkDownFile() {
     fs.writeFileSync(outputFile, '## Algorithm \n');
 
     for (const week in problemSet) {
-        if (weekSummary[week] === undefined)
-            continue;
+        if (weekSummary[week] === undefined) continue;
         let content = `<details>\n<summary>\n<b>${weekSummary[week]}</b>\n</summary>\n\n| 플랫폼 | 레벨 | 문제 | 제목 | `;
         for (const student of students) {
             content += student + ' | ';
