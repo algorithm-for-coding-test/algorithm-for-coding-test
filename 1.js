@@ -2,13 +2,12 @@ const fs = require('fs');
 
 // settings
 const outputFile = 'README.md';
-const exceptFolderList = ['.git'];
+const exceptFolderList = ['.git', '.idea', '.vscode'];
 const students = ['김현창', '김희연', '이상학', '지인성'];
 const checkMark = '✔';
 const uncheckMark = '❌';
 const weekSummary = {
     week1: '1주차 - DFS&BFS',
-    week2: '2주차 - DFS&BFS',
 };
 const platform = {
     BOJ: '백준',
@@ -71,6 +70,8 @@ function writeMarkDownFile() {
     fs.writeFileSync(outputFile, '## Algorithm \n');
 
     for (const week in problemSet) {
+        if (weekSummary[week] === undefined)
+            continue;
         let content = `<details>\n<summary>\n<b>${weekSummary[week]}</b>\n</summary>\n\n| 플랫폼 | 레벨 | 문제 | 제목 | `;
         for (const student of students) {
             content += student + ' | ';
