@@ -31,7 +31,6 @@ def bfs(start):
                 queue.append(iv)
                 dist[iv] = max(dist[iv], dist[qv] + cost)
 
-
 bfs(1)
 
 print(max(dist))
