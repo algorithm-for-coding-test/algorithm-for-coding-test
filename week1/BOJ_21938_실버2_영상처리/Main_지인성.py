@@ -3,7 +3,7 @@ N, M = map(int, input().split())
 
 graph = []
 visited = [[False] * M for _ in range(N)]
-answer = 0
+answer = -1
 
 dx = [1,0,-1,0]
 dy = [0,1,0,-1]
