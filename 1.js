@@ -15,11 +15,12 @@ const platform = {
     LEET: '리트코드',
     SWEA: 'SWEA',
 };
+const bojTiers = ['브론즈', '실버', '골드', '플래티넘', '다이아몬드', '루비'];
+const bojTierUrlPrefix = 'https://static.solved.ac/tier_small/';
+const bojTierUrlSuffix = '.svg';
 
 // data
 const problemSet = {};
-
-// preprocessing
 const studentCount = students.length;
 const studentIndexMapper = {};
 const solveCounter = [];
@@ -28,6 +29,7 @@ for (let i = 0; i < studentCount; ++i) {
     solveCounter.push(0);
 }
 
+// functions
 function getCodeAuthor(codeFile) {
     for (const student of students) {
         if (codeFile.includes(student)) {
@@ -62,6 +64,17 @@ function readFiles() {
     console.log('solved! ' + solveCounter.join(', '));
 }
 
+function getBojTierCode(tier) {
+    let index = -1;
+    for (let i = 0; i < 6; ++i) {
+        if (tier.includes(bojTiers[i])) {
+            index = i;
+            break;
+        }
+    }
+    return index * 5 + (6 - Number(tier.replace(bojTiers[index], '')));
+}
+
 function writeMarkDownFile() {
     // write md file
     if (!fs.existsSync(outputFile)) {
@@ -83,7 +96,16 @@ function writeMarkDownFile() {
         const problems = problemSet[week];
         for (const problem in problems) {
             const [platformCode, number, level, name] = problem.split('_');
-            content += `| ${platform[platformCode]} | ${level} | ${number} | ${name} |`;
+            content += `| ${platform[platformCode]} | `;
+            if (platformCode === 'BOJ') {
+                const tierImage =
+                    bojTierUrlPrefix + getBojTierCode(level) + bojTierUrlSuffix;
+                content += `<img src="${tierImage}" alt="${level}" width="20" /> | `;
+                content += `<a href="http://boj.kr/${number}">${number}</a> | `;
+            } else {
+                content += `${level} | ${number} | `;
+            }
+            content += `<a href="/${week}/${problem}">${name} | `;
             for (const solve of problemSet[week][problem]) {
                 content += ' ' + (solve ? checkMark : uncheckMark) + ' |';
             }
@@ -95,6 +117,7 @@ function writeMarkDownFile() {
     console.log('saved successfully! ' + outputFile);
 }
 
+// main
 console.log('saving... ');
 readFiles();
 writeMarkDownFile();
