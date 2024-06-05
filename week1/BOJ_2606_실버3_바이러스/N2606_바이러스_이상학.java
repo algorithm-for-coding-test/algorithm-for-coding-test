@@ -1,59 +1,54 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.StringTokenizer;
 
-public class N2606_바이러스_이상학 {
+public class Main {
 
-    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    static StringTokenizer st;
+	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	static StringTokenizer st;
+	static StringBuilder sb = new StringBuilder();
 
-    static int computerCnt, networkCnt;
-    static final int START = 1;
-    static int[][] map;
-    static boolean[] visit;
-    static int result;
+	static boolean[] visit;
+	static int node, line;
+	static final int START = 1;
+	static List<Integer>[] nodeList;
+	static int result;
+	
+	public static void main(String[] args) throws IOException {
 
-    public static void main(String[] args) throws IOException {
+		node = Integer.parseInt(br.readLine());
+		line = Integer.parseInt(br.readLine());
+		
+		visit = new boolean[node+1];
+		nodeList = new ArrayList[node+1];
+		for(int i=1; i<=node; i++) {
+			nodeList[i] = new ArrayList<>();
+		}
+		
+		for(int i=0; i<line; i++) {
+			st = new StringTokenizer(br.readLine());
+			int a = Integer.parseInt(st.nextToken());
+			int b = Integer.parseInt(st.nextToken());
+			nodeList[a].add(b);
+			nodeList[b].add(a);
+		}
 
-        computerCnt = Integer.parseInt(br.readLine());
-        networkCnt = Integer.parseInt(br.readLine());
-
-        map = new int[computerCnt+1][computerCnt+1];
-        visit = new boolean[computerCnt+1];
-        for(int i=0; i<networkCnt; i++) {
-
-            st = new StringTokenizer(br.readLine());
-            int a = Integer.parseInt(st.nextToken());
-            int b = Integer.parseInt(st.nextToken());
-
-            map[a][b] = map[b][a] = 1;
-        }
-
-        result = 0;
-        bfs(START);
-        System.out.println(result);
-    }
-
-    static void bfs(int start) {
-
-        Queue<Integer> q = new LinkedList<>();
-        q.add(start);
-        visit[start] = true;
-
-        while(!q.isEmpty()) {
-
-            start = q.poll();
-            for(int i=1; i<=computerCnt; i++) {
-
-                if(map[start][i] == 1 && !visit[i]) {
-                    result++;
-                    q.add(i);
-                    visit[i] = true;
-                }
-            }
-        }
-    }
+		result = 0;
+		dfs(START);
+		System.out.println(result);
+	}
+	
+	static void dfs(int start) {
+		
+		visit[start] = true;
+		for(int n : nodeList[start]) {
+			if(!visit[n]) {
+				result++;
+				dfs(n);
+			}
+		}
+	}
 }
