@@ -51,4 +51,22 @@ public class Main {
 			}
 		}
 	}
+
+	//	static void bfs(int start) {
+//		
+//		Queue<Integer> q = new LinkedList<>();
+//		q.add(start);
+//		visit[start] = true;
+//		
+//		while(!q.isEmpty()) {
+//			start = q.poll();
+//			for(int n : nodeList[start]) {
+//				if(!visit[n]) {
+//					q.add(n);
+//					visit[n] = true;
+//					result++;	
+//				}
+//			}
+//		}
+//	}
 }
