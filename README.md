@@ -30,6 +30,7 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/10800">10800</a> | <a href="/week2/BOJ_10800_골드2_컬러볼">컬러볼 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/14572">14572</a> | <a href="/week2/BOJ_14572_플래티넘5_스터디그룹">스터디그룹 |  ✔ | ❌ | ❌ | ❌ |
 
 </details>
