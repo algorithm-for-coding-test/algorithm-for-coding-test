@@ -25,7 +25,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add github-action.md
+          git add README.md
           git commit -m "Update README.md"
           git push
         env:
