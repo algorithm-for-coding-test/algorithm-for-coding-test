@@ -23,4 +23,13 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/9328">9328</a> | <a href="/week1/BOJ_9328_골드1_열쇠">열쇠 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/17.svg" alt="플래티넘4" width="20" /> | <a href="http://boj.kr/9376">9376</a> | <a href="/week1/BOJ_9376_플래티넘4_탈옥">탈옥 |  ✔ | ❌ | ❌ | ❌ |
 
+</details><details>
+<summary>
+<b>2주차 - 누적합&투포인터</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/14572">14572</a> | <a href="/week2/BOJ_14572_플래티넘5_스터디그룹">스터디그룹 |  ✔ | ❌ | ❌ | ❌ |
+
 </details>
