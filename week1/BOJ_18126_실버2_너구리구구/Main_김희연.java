@@ -1,3 +1,5 @@
+package week1.BOJ_18126_실버2_너구리구구;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main_18126_김희연 {
+public class Main_김희연 {
 
 	static class Edge{
 		int to;

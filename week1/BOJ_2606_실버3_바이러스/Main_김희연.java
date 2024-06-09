@@ -1,9 +1,11 @@
+package week1.BOJ_2606_실버3_바이러스;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main_김희연 {
 	static int n, m;
 	static boolean[][] pair;
 	static boolean[] visit;

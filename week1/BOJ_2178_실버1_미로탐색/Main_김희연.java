@@ -1,3 +1,5 @@
+package week1.BOJ_2178_실버1_미로탐색;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

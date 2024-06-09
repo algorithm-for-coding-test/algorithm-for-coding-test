@@ -1,9 +1,11 @@
+package week1.BOJ_21938_실버2_영상처리;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_21938_김희연 {
+public class Main_김희연 {
 	public static int[][] arr;
 	static boolean[][] visit;
 	static int T, N, M;

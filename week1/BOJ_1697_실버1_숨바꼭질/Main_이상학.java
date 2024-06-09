@@ -1,3 +1,5 @@
+package week1.BOJ_1697_실버1_숨바꼭질;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -6,7 +8,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 // 136ms
-public class N1697_숨바꼭질_이상학 {
+public class Main_이상학 {
 	
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer st;

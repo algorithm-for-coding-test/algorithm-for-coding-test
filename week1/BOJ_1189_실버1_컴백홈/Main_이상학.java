@@ -1,9 +1,11 @@
+package week1.BOJ_1189_실버1_컴백홈;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class N1189_컴백홈_이상학 {
+public class Main_이상학 {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer st;

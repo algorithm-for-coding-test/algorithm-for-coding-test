@@ -1,3 +1,5 @@
+package week1.BOJ_2667_실버1_단지번호붙이기;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

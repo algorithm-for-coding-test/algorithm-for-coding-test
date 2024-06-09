@@ -1,3 +1,5 @@
+package week1.BOJ_1260_실버2_DFS와BFS;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_1260_김희연 {
+public class Main_김희연 {
 	static int N;
 	static int[][] node;
 	static boolean[] visit;
