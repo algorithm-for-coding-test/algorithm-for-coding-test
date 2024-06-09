@@ -6,7 +6,7 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1189">1189</a> | <a href="/week1/BOJ_1189_실버1_컴백홈">컴백홈 |  ✔ | ❌ | ❌ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1189">1189</a> | <a href="/week1/BOJ_1189_실버1_컴백홈">컴백홈 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1194">1194</a> | <a href="/week1/BOJ_1194_골드1_달이차오른다가자">달이차오른다가자 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1260">1260</a> | <a href="/week1/BOJ_1260_실버2_DFS와BFS">DFS와BFS |  ✔ | ❌ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/14442">14442</a> | <a href="/week1/BOJ_14442_골드3_벽부수고이동하기2">벽부수고이동하기2 |  ✔ | ❌ | ❌ | ❌ |
