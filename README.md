@@ -11,7 +11,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1260">1260</a> | <a href="/week1/BOJ_1260_실버2_DFS와BFS">DFS와BFS |  ✔ | ✔ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/14442">14442</a> | <a href="/week1/BOJ_14442_골드3_벽부수고이동하기2">벽부수고이동하기2 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1697">1697</a> | <a href="/week1/BOJ_1697_실버1_숨바꼭질">숨바꼭질 |  ✔ | ✔ | ✔ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/17265">17265</a> | <a href="/week1/BOJ_17265_골드5_나의인생에는수학과함께">나의인생에는수학과함께 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/17265">17265</a> | <a href="/week1/BOJ_17265_골드5_나의인생에는수학과함께">나의인생에는수학과함께 |  ✔ | ❌ | ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/18126">18126</a> | <a href="/week1/BOJ_18126_실버2_너구리구구">너구리구구 |  ✔ | ✔ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1987">1987</a> | <a href="/week1/BOJ_1987_골드4_알파벳">알파벳 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2178">2178</a> | <a href="/week1/BOJ_2178_실버1_미로탐색">미로탐색 |  ✔ | ❌ | ✔ | ✔ |
