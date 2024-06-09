@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main_김희연 {
+public class Main_1260_김희연 {
 	static int N;
 	static int[][] node;
 	static boolean[] visit;

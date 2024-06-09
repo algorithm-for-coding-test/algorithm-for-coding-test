@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main_김희연 {
+public class Main_18126_김희연 {
 
 	static class Edge{
 		int to;
