@@ -36,6 +36,11 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/12847">12847</a> | <a href="/week2/BOJ_12847_실버3_꿀아르바이트">꿀아르바이트 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/14572">14572</a> | <a href="/week2/BOJ_14572_플래티넘5_스터디그룹">스터디그룹 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/16139">16139</a> | <a href="/week2/BOJ_16139_실버1_인간-컴퓨터상호작용">인간-컴퓨터상호작용 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2531">2531</a> | <a href="/week2/BOJ_2531_실버1_회전초밥">회전초밥 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2559">2559</a> | <a href="/week2/BOJ_2559_실버3_수열">수열 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/25708">25708</a> | <a href="/week2/BOJ_25708_실버1_만남의광장">만남의광장 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/26091">26091</a> | <a href="/week2/BOJ_26091_실버1_현대모비스소프트웨어아카데미">현대모비스소프트웨어아카데미 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3273">3273</a> | <a href="/week2/BOJ_3273_실버3_두수의합">두수의합 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/6503">6503</a> | <a href="/week2/BOJ_6503_실버1_망가진키보드">망가진키보드 |  ✔ | ❌ | ❌ | ❌ |
 
 </details>
