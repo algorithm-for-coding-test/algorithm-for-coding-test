@@ -31,7 +31,7 @@
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/10800">10800</a> | <a href="/week2/BOJ_10800_골드2_컬러볼">컬러볼 |  ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/11659">11659</a> | <a href="/week2/BOJ_11659_실버3_구간합구하기4">구간합구하기4 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/11659">11659</a> | <a href="/week2/BOJ_11659_실버3_구간합구하기4">구간합구하기4 |  ✔ | ✔ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/11660">11660</a> | <a href="/week2/BOJ_11660_실버1_구간합구하기5">구간합구하기5 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/12847">12847</a> | <a href="/week2/BOJ_12847_실버3_꿀아르바이트">꿀아르바이트 |  ✔ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/14476">14476</a> | <a href="/week2/BOJ_14476_골드2_최대공약수하나빼기">최대공약수하나빼기 |  ✔ | ❌ | ❌ | ❌ |
