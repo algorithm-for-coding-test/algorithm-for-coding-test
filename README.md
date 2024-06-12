@@ -44,7 +44,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/26091">26091</a> | <a href="/week2/BOJ_26091_실버1_현대모비스소프트웨어아카데미">현대모비스소프트웨어아카데미 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/3020">3020</a> | <a href="/week2/BOJ_3020_골드5_개똥벌레">개똥벌레 |  ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/3151">3151</a> | <a href="/week2/BOJ_3151_골드4_합이0">합이0 |  ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3273">3273</a> | <a href="/week2/BOJ_3273_실버3_두수의합">두수의합 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3273">3273</a> | <a href="/week2/BOJ_3273_실버3_두수의합">두수의합 |  ✔ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/6503">6503</a> | <a href="/week2/BOJ_6503_실버1_망가진키보드">망가진키보드 |  ✔ | ❌ | ❌ | ❌ |
 
 </details>
