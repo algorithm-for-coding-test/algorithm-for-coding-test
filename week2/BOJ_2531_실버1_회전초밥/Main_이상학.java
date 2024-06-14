@@ -40,6 +40,7 @@ public class Main_이상학 {
 			if(--sushiNumList[plateList[i]] == 0) {
 				count--;
 			}
+			
 			if(++sushiNumList[plateList[(i+k)%N]] == 1) {
 				count++;
 			}
