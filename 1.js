@@ -9,6 +9,7 @@ const uncheckMark = '❌';
 const weekSummary = {
     week1: '1주차 - DFS&BFS',
     week2: '2주차 - 누적합&투포인터',
+    week3: '3주차 - 브루트포스&이진탐색',
 };
 const platform = {
     BOJ: '백준',
