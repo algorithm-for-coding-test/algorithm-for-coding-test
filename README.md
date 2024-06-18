@@ -50,4 +50,17 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3273">3273</a> | <a href="/week2/BOJ_3273_실버3_두수의합">두수의합 |  ✔ | ✔ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/6503">6503</a> | <a href="/week2/BOJ_6503_실버1_망가진키보드">망가진키보드 |  ✔ | ❌ | ❌ | ✔ |
 
+</details><details>
+<summary>
+<b>3주차 - 브루트포스&이진탐색</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/10816">10816</a> | <a href="/week3/BOJ_10816_실버4_숫자카드2">숫자카드2 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/17503">17503</a> | <a href="/week3/BOJ_17503_실버1_맥주축제">맥주축제 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2512">2512</a> | <a href="/week3/BOJ_2512_실버2_예산">예산 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/26168">26168</a> | <a href="/week3/BOJ_26168_실버4_배열전체탐색하기">배열전체탐색하기 |  ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2805">2805</a> | <a href="/week3/BOJ_2805_실버2_나무자르기">나무자르기 |  ✔ | ❌ | ❌ | ❌ |
+
 </details>
