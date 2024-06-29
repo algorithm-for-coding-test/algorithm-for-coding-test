@@ -10,15 +10,14 @@ public class Main_김희연 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
 
-		int n = Integer.parseInt(st.nextToken());
-		int k = Integer.parseInt(st.nextToken());
+		int n = Integer.parseInt(st.nextToken()); //동전의 종류
+		int k = Integer.parseInt(st.nextToken()); //동전의 가치의 합
 
-		int[] arr = new int[n+1];
-		int[] dp = new int[k+1];
+		int[] arr = new int[n+1]; //동전의 가치
+		int[] dp = new int[k+1];  //사용한 동전의 최소 개수
 
 		for(int i=1; i<=n; i++) {
-			st = new StringTokenizer(br.readLine());
-			arr[i] = Integer.parseInt(st.nextToken());
+			arr[i] = Integer.parseInt(br.readLine());
 		}
 
 		for(int i=1; i<=k; i++){
