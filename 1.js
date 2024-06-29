@@ -3,7 +3,7 @@ const fs = require('fs');
 // settings
 const outputFile = 'README.md';
 const exceptFolderList = ['.git', '.idea', '.vscode', 'out'];
-const students = ['김현창', '김희연', '이상학', '지인성'];
+const students = ['김현창', '김희연', '이상학', '지인성', '현민수'];
 const checkMark = '✔';
 const uncheckMark = '❌';
 const weekSummary = {
