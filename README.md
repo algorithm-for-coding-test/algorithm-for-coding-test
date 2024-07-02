@@ -18,7 +18,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/21938">21938</a> | <a href="/week1/BOJ_21938_실버2_영상처리">영상처리 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2606">2606</a> | <a href="/week1/BOJ_2606_실버3_바이러스">바이러스 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2667">2667</a> | <a href="/week1/BOJ_2667_실버1_단지번호붙이기">단지번호붙이기 |  ✔ | ✔ | ✔ | ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/3184">3184</a> | <a href="/week1/BOJ_3184_실버1_양">양 |  ✔ | ❌ | ✔ | ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/3184">3184</a> | <a href="/week1/BOJ_3184_실버1_양">양 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/5014">5014</a> | <a href="/week1/BOJ_5014_실버1_스타트링크">스타트링크 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/9328">9328</a> | <a href="/week1/BOJ_9328_골드1_열쇠">열쇠 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/17.svg" alt="플래티넘4" width="20" /> | <a href="http://boj.kr/9376">9376</a> | <a href="/week1/BOJ_9376_플래티넘4_탈옥">탈옥 |  ✔ | ❌ | ❌ | ❌ | ❌ |
