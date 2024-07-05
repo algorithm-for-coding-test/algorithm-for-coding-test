@@ -20,7 +20,7 @@ class Node {
 	}
 }
 
-public class Main {
+public class Main_김희연 {
 	public static int[] dx = new int[] { 0, 0, -1, 1 };
 	public static int[] dy = new int[] { 1, -1, 0, 0 };
 	public static char[][] map;
