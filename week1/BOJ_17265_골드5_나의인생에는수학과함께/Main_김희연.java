@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main_김희연 {
 	static int dx[] = {1, 0};
 	static int dy[] = {0, 1};
 	static int n;
