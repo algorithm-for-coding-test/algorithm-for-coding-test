@@ -1,3 +1,5 @@
+package week1.BOJ_17265_골드5_나의인생에는수학과함께;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
