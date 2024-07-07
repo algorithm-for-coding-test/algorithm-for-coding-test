@@ -20,7 +20,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2667">2667</a> | <a href="/week1/BOJ_2667_실버1_단지번호붙이기">단지번호붙이기 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/3184">3184</a> | <a href="/week1/BOJ_3184_실버1_양">양 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/5014">5014</a> | <a href="/week1/BOJ_5014_실버1_스타트링크">스타트링크 |  ✔ | ✔ | ✔ | ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/9328">9328</a> | <a href="/week1/BOJ_9328_골드1_열쇠">열쇠 |  ✔ | ✔ | ❌ | ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/9328">9328</a> | <a href="/week1/BOJ_9328_골드1_열쇠">열쇠 |  ✔ | ✔ | ❌ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/17.svg" alt="플래티넘4" width="20" /> | <a href="http://boj.kr/9376">9376</a> | <a href="/week1/BOJ_9376_플래티넘4_탈옥">탈옥 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
@@ -62,7 +62,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/14502">14502</a> | <a href="/week3/BOJ_14502_골드4_연구소">연구소 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/14889">14889</a> | <a href="/week3/BOJ_14889_실버1_스타트와링크">스타트와링크 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1561">1561</a> | <a href="/week3/BOJ_1561_골드1_놀이공원">놀이공원 |  ✔ | ❌ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/16236">16236</a> | <a href="/week3/BOJ_16236_골드3_아기상어">아기상어 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/16236">16236</a> | <a href="/week3/BOJ_16236_골드3_아기상어">아기상어 |  ✔ | ❌ | ❌ | ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/16566">16566</a> | <a href="/week3/BOJ_16566_플래티넘5_카드게임">카드게임 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1713">1713</a> | <a href="/week3/BOJ_1713_실버1_후보추천하기">후보추천하기 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/17503">17503</a> | <a href="/week3/BOJ_17503_실버1_맥주축제">맥주축제 |  ✔ | ✔ | ❌ | ✔ | ❌ |
