@@ -10,7 +10,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Main_지인성 {
   static ArrayList<Integer> queue;
   static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
   static int N, K;
