@@ -48,7 +48,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/3020">3020</a> | <a href="/week2/BOJ_3020_골드5_개똥벌레">개똥벌레 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/3151">3151</a> | <a href="/week2/BOJ_3151_골드4_합이0">합이0 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3273">3273</a> | <a href="/week2/BOJ_3273_실버3_두수의합">두수의합 |  ✔ | ✔ | ✔ | ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/6503">6503</a> | <a href="/week2/BOJ_6503_실버1_망가진키보드">망가진키보드 |  ✔ | ❌ | ✔ | ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/6503">6503</a> | <a href="/week2/BOJ_6503_실버1_망가진키보드">망가진키보드 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 
 </details><details>
 <summary>
@@ -71,7 +71,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2110">2110</a> | <a href="/week3/BOJ_2110_골드4_공유기설치">공유기설치 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/24954">24954</a> | <a href="/week3/BOJ_24954_실버1_물약구매">물약구매 |  ✔ | ✔ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2512">2512</a> | <a href="/week3/BOJ_2512_실버2_예산">예산 |  ✔ | ✔ | ✔ | ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/26168">26168</a> | <a href="/week3/BOJ_26168_실버4_배열전체탐색하기">배열전체탐색하기 |  ✔ | ❌ | ✔ | ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/26168">26168</a> | <a href="/week3/BOJ_26168_실버4_배열전체탐색하기">배열전체탐색하기 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2805">2805</a> | <a href="/week3/BOJ_2805_실버2_나무자르기">나무자르기 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 
 </details><details>
