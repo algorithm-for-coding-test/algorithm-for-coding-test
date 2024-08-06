@@ -141,9 +141,14 @@
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11501">11501</a> | <a href="/week7/BOJ_11501_실버2_주식">주식 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1446">1446</a> | <a href="/week7/BOJ_1446_실버1_지름길">지름길 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/16395">16395</a> | <a href="/week7/BOJ_16395_실버5_파스칼의삼각형">파스칼의삼각형 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1946">1946</a> | <a href="/week7/BOJ_1946_실버1_신입사원">신입사원 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20300">20300</a> | <a href="/week7/BOJ_20300_실버3_서강근육맨">서강근육맨 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20365">20365</a> | <a href="/week7/BOJ_20365_실버3_블로그2">블로그2 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/21317">21317</a> | <a href="/week7/BOJ_21317_실버1_징검다리건너기">징검다리건너기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2302">2302</a> | <a href="/week7/BOJ_2302_실버1_극장좌석">극장좌석 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2780">2780</a> | <a href="/week7/BOJ_2780_실버1_비밀번호">비밀번호 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/2839">2839</a> | <a href="/week7/BOJ_2839_실버4_설탕배달">설탕배달 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details>
