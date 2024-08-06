@@ -141,14 +141,19 @@
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11501">11501</a> | <a href="/week7/BOJ_11501_실버2_주식">주식 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/13164">13164</a> | <a href="/week7/BOJ_13164_골드5_행복유치원">행복유치원 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1446">1446</a> | <a href="/week7/BOJ_1446_실버1_지름길">지름길 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/16395">16395</a> | <a href="/week7/BOJ_16395_실버5_파스칼의삼각형">파스칼의삼각형 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1700">1700</a> | <a href="/week7/BOJ_1700_골드1_멀티탭스케줄링">멀티탭스케줄링 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1946">1946</a> | <a href="/week7/BOJ_1946_실버1_신입사원">신입사원 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20300">20300</a> | <a href="/week7/BOJ_20300_실버3_서강근육맨">서강근육맨 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20365">20365</a> | <a href="/week7/BOJ_20365_실버3_블로그2">블로그2 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/21317">21317</a> | <a href="/week7/BOJ_21317_실버1_징검다리건너기">징검다리건너기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2302">2302</a> | <a href="/week7/BOJ_2302_실버1_극장좌석">극장좌석 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2342">2342</a> | <a href="/week7/BOJ_2342_골드3_DanceDanceRevolution">DanceDanceRevolution |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2624">2624</a> | <a href="/week7/BOJ_2624_골드4_동전바꿔주기">동전바꿔주기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2780">2780</a> | <a href="/week7/BOJ_2780_실버1_비밀번호">비밀번호 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2812">2812</a> | <a href="/week7/BOJ_2812_골드3_크게만들기">크게만들기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/2839">2839</a> | <a href="/week7/BOJ_2839_실버4_설탕배달">설탕배달 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details>
