@@ -1,4 +1,4 @@
-package week5.BOJ_15903_실버1_회전초밥;
+package week5.BOJ_28107_실버1_회전초밥;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
