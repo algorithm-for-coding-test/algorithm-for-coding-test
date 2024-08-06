@@ -122,4 +122,28 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/4889">4889</a> | <a href="/week5/BOJ_4889_실버1_안정적인문자열">안정적인문자열 |  ✔ | ✔ | ✔ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/5464">5464</a> | <a href="/week5/BOJ_5464_실버2_주차장">주차장 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 
+</details><details>
+<summary>
+<b>6주차 - 구현</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/14891">14891</a> | <a href="/week6/BOJ_14891_골드5_톱니바퀴">톱니바퀴 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/17144">17144</a> | <a href="/week6/BOJ_17144_골드4_미세먼지안녕">미세먼지안녕 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/21610">21610</a> | <a href="/week6/BOJ_21610_골드5_마법사상어와비바라기">마법사상어와비바라기 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
+<b>7주차 - 그리디&다이나믹 프로그래밍</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11501">11501</a> | <a href="/week7/BOJ_11501_실버2_주식">주식 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1946">1946</a> | <a href="/week7/BOJ_1946_실버1_신입사원">신입사원 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20300">20300</a> | <a href="/week7/BOJ_20300_실버3_서강근육맨">서강근육맨 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20365">20365</a> | <a href="/week7/BOJ_20365_실버3_블로그2">블로그2 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/2839">2839</a> | <a href="/week7/BOJ_2839_실버4_설탕배달">설탕배달 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
 </details>
