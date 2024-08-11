@@ -141,7 +141,7 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11501">11501</a> | <a href="/week7/BOJ_11501_실버2_주식">주식 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/11501">11501</a> | <a href="/week7/BOJ_11501_실버2_주식">주식 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/13164">13164</a> | <a href="/week7/BOJ_13164_골드5_행복유치원">행복유치원 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1446">1446</a> | <a href="/week7/BOJ_1446_실버1_지름길">지름길 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/16395">16395</a> | <a href="/week7/BOJ_16395_실버5_파스칼의삼각형">파스칼의삼각형 |  ✔ | ❌ | ❌ | ❌ | ❌ |
