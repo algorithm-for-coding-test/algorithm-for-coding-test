@@ -147,7 +147,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/6.svg" alt="실버5" width="20" /> | <a href="http://boj.kr/16395">16395</a> | <a href="/week7/BOJ_16395_실버5_파스칼의삼각형">파스칼의삼각형 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1700">1700</a> | <a href="/week7/BOJ_1700_골드1_멀티탭스케줄링">멀티탭스케줄링 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1946">1946</a> | <a href="/week7/BOJ_1946_실버1_신입사원">신입사원 |  ✔ | ❌ | ❌ | ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20300">20300</a> | <a href="/week7/BOJ_20300_실버3_서강근육맨">서강근육맨 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20300">20300</a> | <a href="/week7/BOJ_20300_실버3_서강근육맨">서강근육맨 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/20365">20365</a> | <a href="/week7/BOJ_20365_실버3_블로그2">블로그2 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/21317">21317</a> | <a href="/week7/BOJ_21317_실버1_징검다리건너기">징검다리건너기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2302">2302</a> | <a href="/week7/BOJ_2302_실버1_극장좌석">극장좌석 |  ✔ | ❌ | ❌ | ❌ | ❌ |
