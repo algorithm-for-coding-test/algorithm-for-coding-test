@@ -153,7 +153,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2302">2302</a> | <a href="/week7/BOJ_2302_실버1_극장좌석">극장좌석 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2342">2342</a> | <a href="/week7/BOJ_2342_골드3_DanceDanceRevolution">DanceDanceRevolution |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2624">2624</a> | <a href="/week7/BOJ_2624_골드4_동전바꿔주기">동전바꿔주기 |  ✔ | ❌ | ❌ | ✔ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2780">2780</a> | <a href="/week7/BOJ_2780_실버1_비밀번호">비밀번호 |  ✔ | ❌ | ❌ | ✔ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2780">2780</a> | <a href="/week7/BOJ_2780_실버1_비밀번호">비밀번호 |  ✔ | ✔ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2812">2812</a> | <a href="/week7/BOJ_2812_골드3_크게만들기">크게만들기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/2839">2839</a> | <a href="/week7/BOJ_2839_실버4_설탕배달">설탕배달 |  ✔ | ✔ | ❌ | ✔ | ❌ |
 
