@@ -112,7 +112,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/13335">13335</a> | <a href="/week5/BOJ_13335_실버1_트럭">트럭 |  ✔ | ❌ | ✔ | ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1406">1406</a> | <a href="/week5/BOJ_1406_실버2_에디터">에디터 |  ✔ | ✔ | ✔ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/15903">15903</a> | <a href="/week5/BOJ_15903_실버1_카드합체놀이">카드합체놀이 |  ✔ | ✔ | ✔ | ✔ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1655">1655</a> | <a href="/week5/BOJ_1655_골드2_가운데를말해요">가운데를말해요 |  ✔ | ❌ | ❌ | ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1655">1655</a> | <a href="/week5/BOJ_1655_골드2_가운데를말해요">가운데를말해요 |  ✔ | ✔ | ❌ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/18115">18115</a> | <a href="/week5/BOJ_18115_실버3_카드놓기">카드놓기 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/20923">20923</a> | <a href="/week5/BOJ_20923_실버1_숫자할리갈리게임">숫자할리갈리게임 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/23294">23294</a> | <a href="/week5/BOJ_23294_골드4_웹브라우저1">웹브라우저1 |  ✔ | ❌ | ❌ | ✔ | ✔ |
