@@ -108,7 +108,7 @@
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/11286">11286</a> | <a href="/week5/BOJ_11286_실버1_절대값힙">절대값힙 |  ✔ | ✔ | ❌ | ✔ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1202">1202</a> | <a href="/week5/BOJ_1202_골드2_보석도둑">보석도둑 |  ✔ | ❌ | ❌ | ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1202">1202</a> | <a href="/week5/BOJ_1202_골드2_보석도둑">보석도둑 |  ✔ | ✔ | ❌ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/13335">13335</a> | <a href="/week5/BOJ_13335_실버1_트럭">트럭 |  ✔ | ❌ | ✔ | ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1406">1406</a> | <a href="/week5/BOJ_1406_실버2_에디터">에디터 |  ✔ | ✔ | ✔ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/15903">15903</a> | <a href="/week5/BOJ_15903_실버1_카드합체놀이">카드합체놀이 |  ✔ | ✔ | ✔ | ✔ | ✔ |
