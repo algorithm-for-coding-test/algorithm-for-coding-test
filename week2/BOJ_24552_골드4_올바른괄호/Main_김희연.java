@@ -29,10 +29,11 @@ public class Main_김희연 {
 					break;
 				}
 			}
-			for(int i=index; i>=0; i--){
-				if(str.charAt(i) == ')')
-					answer++;
-			}
+			answer = (index) / 2 + 1;
+			// for(int i=index; i>=0; i--){
+			// 	if(str.charAt(i) == ')')
+			// 		answer++;
+			// }
 		} else if(arr[size-1] == 1){ //여는 괄호가 더 많을 경우
 			int index = 0;
 			for(int i=size-1; i>=0; i--){
@@ -41,10 +42,11 @@ public class Main_김희연 {
 					break;
 				}
 			}
-			for(int i=index; i<size; i++){
-				if(str.charAt(i) == '(')
-					answer++;
-			}
+			answer = (size - (index+1)) / 2 + 1;
+			// for(int i=index; i<size; i++){
+			// 	if(str.charAt(i) == '(')
+			// 		answer++;
+			// }
 		}
 		System.out.println(answer);
 	}
