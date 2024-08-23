@@ -119,7 +119,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2800">2800</a> | <a href="/week5/BOJ_2800_골드4_괄호제거">괄호제거 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/28107">28107</a> | <a href="/week5/BOJ_28107_실버1_회전초밥">회전초밥 |  ✔ | ❌ | ✔ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2841">2841</a> | <a href="/week5/BOJ_2841_실버1_외계인의기타연주">외계인의기타연주 |  ✔ | ❌ | ❌ | ❌ | ✔ |
-| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/3078">3078</a> | <a href="/week5/BOJ_3078_골드4_좋은친구">좋은친구 |  ✔ | ❌ | ❌ | ✔ | ✔ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/3078">3078</a> | <a href="/week5/BOJ_3078_골드4_좋은친구">좋은친구 |  ✔ | ✔ | ❌ | ✔ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/4889">4889</a> | <a href="/week5/BOJ_4889_실버1_안정적인문자열">안정적인문자열 |  ✔ | ✔ | ✔ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/5464">5464</a> | <a href="/week5/BOJ_5464_실버2_주차장">주차장 |  ✔ | ✔ | ✔ | ✔ | ❌ |
 
