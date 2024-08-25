@@ -96,7 +96,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/1937">1937</a> | <a href="/week4/BOJ_1937_골드3_욕심쟁이판다">욕심쟁이판다 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/2098">2098</a> | <a href="/week4/BOJ_2098_골드1_외판원순회">외판원순회 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/2294">2294</a> | <a href="/week4/BOJ_2294_골드5_동전2">동전2 |  ✔ | ✔ | ❌ | ✔ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2533">2533</a> | <a href="/week4/BOJ_2533_골드3_사회망서비스">사회망서비스 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2533">2533</a> | <a href="/week4/BOJ_2533_골드3_사회망서비스">사회망서비스 |  ✔ | ❌ | ❌ | ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/17.svg" alt="플래티넘4" width="20" /> | <a href="http://boj.kr/2618">2618</a> | <a href="/week4/BOJ_2618_플래티넘4_경찰차">경찰차 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/9251">9251</a> | <a href="/week4/BOJ_9251_골드5_LCS">LCS |  ✔ | ❌ | ❌ | ✔ | ❌ |
 
