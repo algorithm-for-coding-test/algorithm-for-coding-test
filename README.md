@@ -157,4 +157,17 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2812">2812</a> | <a href="/week7/BOJ_2812_골드3_크게만들기">크게만들기 |  ✔ | ❌ | ❌ | ❌ | ✔ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/2839">2839</a> | <a href="/week7/BOJ_2839_실버4_설탕배달">설탕배달 |  ✔ | ✔ | ❌ | ✔ | ✔ |
 
+</details><details>
+<summary>
+<b>8주차 - 그리디</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/11399">11399</a> | <a href="/week8/BOJ_11399_실버4_ATM">ATM |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/13305">13305</a> | <a href="/week8/BOJ_13305_실버3_주유소">주유소 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1541">1541</a> | <a href="/week8/BOJ_1541_실버2_잃어버린괄호">잃어버린괄호 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1931">1931</a> | <a href="/week8/BOJ_1931_실버1_회의실배정">회의실배정 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/20413">20413</a> | <a href="/week8/BOJ_20413_실버2_MVP다이아몬드_Easy">MVP다이아몬드 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
 </details>
