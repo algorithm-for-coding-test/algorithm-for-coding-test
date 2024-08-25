@@ -14,6 +14,7 @@ const weekSummary = {
     week5: '5주차 - 자료구조',
     week6: '6주차 - 구현',
     week7: '7주차 - 그리디&다이나믹 프로그래밍',
+    week8: '8주차 - 그리디',
 };
 const platform = {
     BOJ: '백준',
