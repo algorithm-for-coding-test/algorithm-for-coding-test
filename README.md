@@ -164,10 +164,15 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/10775">10775</a> | <a href="/week8/BOJ_10775_골드2_공항">공항 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1092">1092</a> | <a href="/week8/BOJ_1092_골드5_배">배 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/11399">11399</a> | <a href="/week8/BOJ_11399_실버4_ATM">ATM |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1202">1202</a> | <a href="/week8/BOJ_1202_골드2_보석도둑">보석도둑 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/13305">13305</a> | <a href="/week8/BOJ_13305_실버3_주유소">주유소 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/1541">1541</a> | <a href="/week8/BOJ_1541_실버2_잃어버린괄호">잃어버린괄호 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/18310">18310</a> | <a href="/week8/BOJ_18310_실버3_안테나">안테나 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1931">1931</a> | <a href="/week8/BOJ_1931_실버1_회의실배정">회의실배정 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/20413">20413</a> | <a href="/week8/BOJ_20413_실버2_MVP다이아몬드_Easy">MVP다이아몬드 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2138">2138</a> | <a href="/week8/BOJ_2138_골드4_전구와스위치">전구와스위치 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details>
