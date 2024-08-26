@@ -166,6 +166,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/10775">10775</a> | <a href="/week8/BOJ_10775_골드2_공항">공항 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1092">1092</a> | <a href="/week8/BOJ_1092_골드5_배">배 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/11000">11000</a> | <a href="/week8/BOJ_11000_골드5_강의실배정">강의실배정 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/11399">11399</a> | <a href="/week8/BOJ_11399_실버4_ATM">ATM |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1202">1202</a> | <a href="/week8/BOJ_1202_골드2_보석도둑">보석도둑 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/13305">13305</a> | <a href="/week8/BOJ_13305_실버3_주유소">주유소 |  ✔ | ❌ | ❌ | ❌ | ❌ |
