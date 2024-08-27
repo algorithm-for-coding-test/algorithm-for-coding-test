@@ -176,6 +176,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/18310">18310</a> | <a href="/week8/BOJ_18310_실버3_안테나">안테나 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1931">1931</a> | <a href="/week8/BOJ_1931_실버1_회의실배정">회의실배정 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/20413">20413</a> | <a href="/week8/BOJ_20413_실버2_MVP다이아몬드_Easy">MVP다이아몬드 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/20921">20921</a> | <a href="/week8/BOJ_20921_실버1_그렇고그런사이">그렇고그런사이 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2138">2138</a> | <a href="/week8/BOJ_2138_골드4_전구와스위치">전구와스위치 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/3687">3687</a> | <a href="/week8/BOJ_3687_골드2_성냥개비">성냥개비 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
