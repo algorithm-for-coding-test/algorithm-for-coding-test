@@ -1,4 +1,4 @@
-import sys
+import sys 
 
 input = lambda: sys.stdin.readline().strip()
 
@@ -9,7 +9,7 @@ house.sort()
 
 print(house[(N-1)//2])
 
-#오답
+#오답 
 # distances = []
 
 # distances.append((house[0], 0))
@@ -21,3 +21,9 @@ print(house[(N-1)//2])
 
 # x, y = distances[-1]
 # print(x)
+
+
+
+
+
+    
