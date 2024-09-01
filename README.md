@@ -182,4 +182,18 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/30893">30893</a> | <a href="/week8/BOJ_30893_골드4_트리게임">트리게임 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/3687">3687</a> | <a href="/week8/BOJ_3687_골드2_성냥개비">성냥개비 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
+</details><details>
+<summary>
+<b>9주차 - 다익스트라 & 위상정렬</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/16118">16118</a> | <a href="/week9/BOJ_16118_골드1_달빛여우">달빛여우 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/17270">17270</a> | <a href="/week9/BOJ_17270_골드3_연예인은힘들어">연예인은힘들어 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1753">1753</a> | <a href="/week9/BOJ_1753_골드4_최단경로">최단경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1800">1800</a> | <a href="/week9/BOJ_1800_골드1_인터넷설치">인터넷설치 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/28707">28707</a> | <a href="/week9/BOJ_28707_골드1_배열정렬">배열정렬 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/4485">4485</a> | <a href="/week9/BOJ_4485_골드4_녹색옷입은애가젤다지">녹색옷입은애가젤다지 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
 </details>
