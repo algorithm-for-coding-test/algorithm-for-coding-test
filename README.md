@@ -195,9 +195,11 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/17270">17270</a> | <a href="/week9/BOJ_17270_골드3_연예인은힘들어">연예인은힘들어 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1753">1753</a> | <a href="/week9/BOJ_1753_골드4_최단경로">최단경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1800">1800</a> | <a href="/week9/BOJ_1800_골드1_인터넷설치">인터넷설치 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/1948">1948</a> | <a href="/week9/BOJ_1948_플래티넘5_임계경로">임계경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/20119">20119</a> | <a href="/week9/BOJ_20119_골드1_클레어와물약">클레어와물약 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2252">2252</a> | <a href="/week9/BOJ_2252_골드3_줄세우기">줄세우기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/28707">28707</a> | <a href="/week9/BOJ_28707_골드1_배열정렬">배열정렬 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/4485">4485</a> | <a href="/week9/BOJ_4485_골드4_녹색옷입은애가젤다지">녹색옷입은애가젤다지 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/5719">5719</a> | <a href="/week9/BOJ_5719_플래티넘5_거의최단경로">거의최단경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details>
