@@ -189,10 +189,14 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/14567">14567</a> | <a href="/week9/BOJ_14567_골드5_선수과목">선수과목 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/14907">14907</a> | <a href="/week9/BOJ_14907_골드2_프로젝트스케줄링">프로젝트스케줄링 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/16118">16118</a> | <a href="/week9/BOJ_16118_골드1_달빛여우">달빛여우 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/17270">17270</a> | <a href="/week9/BOJ_17270_골드3_연예인은힘들어">연예인은힘들어 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1753">1753</a> | <a href="/week9/BOJ_1753_골드4_최단경로">최단경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1800">1800</a> | <a href="/week9/BOJ_1800_골드1_인터넷설치">인터넷설치 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/20119">20119</a> | <a href="/week9/BOJ_20119_골드1_클레어와물약">클레어와물약 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2252">2252</a> | <a href="/week9/BOJ_2252_골드3_줄세우기">줄세우기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/28707">28707</a> | <a href="/week9/BOJ_28707_골드1_배열정렬">배열정렬 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/4485">4485</a> | <a href="/week9/BOJ_4485_골드4_녹색옷입은애가젤다지">녹색옷입은애가젤다지 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
