@@ -30,10 +30,18 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/11404">11404</a> | <a href="/week10/BOJ_11404_골드4_플로이드">플로이드 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1197">1197</a> | <a href="/week10/BOJ_1197_골드4_최소스패닝트리">최소스패닝트리 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/1414">1414</a> | <a href="/week10/BOJ_1414_골드3_불우이웃돕기">불우이웃돕기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/14621">14621</a> | <a href="/week10/BOJ_14621_골드3_나만안되는연애">나만안되는연애 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1486">1486</a> | <a href="/week10/BOJ_1486_골드2_등산">등산 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1717">1717</a> | <a href="/week10/BOJ_1717_골드5_집합의표헌">집합의표헌 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/17352">17352</a> | <a href="/week10/BOJ_17352_골드5_여러분의다리가되어드리겠습니다">여러분의다리가되어드리겠습니다 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/18116">18116</a> | <a href="/week10/BOJ_18116_골드4_로봇조립">로봇조립 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1944">1944</a> | <a href="/week10/BOJ_1944_골드1_복제로봇">복제로봇 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1976">1976</a> | <a href="/week10/BOJ_1976_골드4_여행가자">여행가자 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/23743">23743</a> | <a href="/week10/BOJ_23743_골드2_방탈출">방탈출 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2458">2458</a> | <a href="/week10/BOJ_2458_골드4_키순서">키순서 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/4192">4192</a> | <a href="/week10/BOJ_4192_골드2_친구네트워크">친구네트워크 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
