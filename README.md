@@ -42,6 +42,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1976">1976</a> | <a href="/week10/BOJ_1976_골드4_여행가자">여행가자 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/23743">23743</a> | <a href="/week10/BOJ_23743_골드2_방탈출">방탈출 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2458">2458</a> | <a href="/week10/BOJ_2458_골드4_키순서">키순서 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/2887">2887</a> | <a href="/week10/BOJ_2887_플래티넘5_행성터널">행성터널 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/4192">4192</a> | <a href="/week10/BOJ_4192_골드2_친구네트워크">친구네트워크 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
