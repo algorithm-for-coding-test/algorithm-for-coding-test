@@ -1,4 +1,4 @@
-package week10.BOJ_1717_골드5_집합의표헌;
+package week10.BOJ_1717_골드5_집합의표현;
 
 import java.io.*;
 import java.util.*;
