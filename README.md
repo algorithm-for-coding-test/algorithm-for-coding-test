@@ -35,7 +35,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/1414">1414</a> | <a href="/week10/BOJ_1414_골드3_불우이웃돕기">불우이웃돕기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/14621">14621</a> | <a href="/week10/BOJ_14621_골드3_나만안되는연애">나만안되는연애 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/1486">1486</a> | <a href="/week10/BOJ_1486_골드2_등산">등산 |  ✔ | ❌ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1717">1717</a> | <a href="/week10/BOJ_1717_골드5_집합의표현">집합의표현 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1717">1717</a> | <a href="/week10/BOJ_1717_골드5_집합의표현">집합의표현 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/17352">17352</a> | <a href="/week10/BOJ_17352_골드5_여러분의다리가되어드리겠습니다">여러분의다리가되어드리겠습니다 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/18116">18116</a> | <a href="/week10/BOJ_18116_골드4_로봇조립">로봇조립 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1944">1944</a> | <a href="/week10/BOJ_1944_골드1_복제로봇">복제로봇 |  ✔ | ❌ | ❌ | ❌ | ❌ |
