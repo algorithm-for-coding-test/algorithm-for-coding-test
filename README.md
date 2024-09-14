@@ -30,7 +30,7 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/11404">11404</a> | <a href="/week10/BOJ_11404_골드4_플로이드">플로이드 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/11404">11404</a> | <a href="/week10/BOJ_11404_골드4_플로이드">플로이드 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1197">1197</a> | <a href="/week10/BOJ_1197_골드4_최소스패닝트리">최소스패닝트리 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/1414">1414</a> | <a href="/week10/BOJ_1414_골드3_불우이웃돕기">불우이웃돕기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/14621">14621</a> | <a href="/week10/BOJ_14621_골드3_나만안되는연애">나만안되는연애 |  ✔ | ❌ | ❌ | ❌ | ❌ |
