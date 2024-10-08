@@ -41,7 +41,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/1944">1944</a> | <a href="/week10/BOJ_1944_골드1_복제로봇">복제로봇 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1976">1976</a> | <a href="/week10/BOJ_1976_골드4_여행가자">여행가자 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/23743">23743</a> | <a href="/week10/BOJ_23743_골드2_방탈출">방탈출 |  ✔ | ❌ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2458">2458</a> | <a href="/week10/BOJ_2458_골드4_키순서">키순서 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2458">2458</a> | <a href="/week10/BOJ_2458_골드4_키순서">키순서 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/2887">2887</a> | <a href="/week10/BOJ_2887_플래티넘5_행성터널">행성터널 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/18.svg" alt="플래티넘3" width="20" /> | <a href="http://boj.kr/3830">3830</a> | <a href="/week10/BOJ_3830_플래티넘3_교수님은기다리지않는다">교수님은기다리지않는다 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/14.svg" alt="골드2" width="20" /> | <a href="http://boj.kr/4192">4192</a> | <a href="/week10/BOJ_4192_골드2_친구네트워크">친구네트워크 |  ✔ | ❌ | ❌ | ❌ | ❌ |
@@ -221,7 +221,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/1948">1948</a> | <a href="/week9/BOJ_1948_플래티넘5_임계경로">임계경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/20119">20119</a> | <a href="/week9/BOJ_20119_골드1_클레어와물약">클레어와물약 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2252">2252</a> | <a href="/week9/BOJ_2252_골드3_줄세우기">줄세우기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/28707">28707</a> | <a href="/week9/BOJ_28707_골드1_배열정렬">배열정렬 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/28707">28707</a> | <a href="/week9/BOJ_28707_골드1_배열정렬">배열정렬 |  ✔ | ❌ | ❌ | ✔ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/4485">4485</a> | <a href="/week9/BOJ_4485_골드4_녹색옷입은애가젤다지">녹색옷입은애가젤다지 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/16.svg" alt="플래티넘5" width="20" /> | <a href="http://boj.kr/5719">5719</a> | <a href="/week9/BOJ_5719_플래티넘5_거의최단경로">거의최단경로 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
