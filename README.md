@@ -56,7 +56,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1245">1245</a> | <a href="/week11_1/BOJ_1245_골드5_농장관리">농장관리 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1497">1497</a> | <a href="/week11_1/BOJ_1497_실버1_기타콘서트">기타콘서트 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1633">1633</a> | <a href="/week11_1/BOJ_1633_골드4_최고의팀만들기">최고의팀만들기 |  ✔ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2309">2309</a> | <a href="/week11_1/BOJ_2309_브론즈1_일곱난쟁이">일곱난쟁이 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2309">2309</a> | <a href="/week11_1/BOJ_2309_브론즈1_일곱난쟁이">일곱난쟁이 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2371">2371</a> | <a href="/week11_1/BOJ_2371_실버3_파일구별하기">파일구별하기 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 
 </details><details>
