@@ -66,7 +66,8 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2246">2246</a> | <a href="/week11_2/BOJ_2246_브론즈1_콘도선정">콘도선정 |  ❌ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/1337">1337</a> | <a href="/week11_2/BOJ_1337_실버4_올바른배열">올바른배열 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2246">2246</a> | <a href="/week11_2/BOJ_2246_브론즈1_콘도선정">콘도선정 |  ❌ | ✔ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
