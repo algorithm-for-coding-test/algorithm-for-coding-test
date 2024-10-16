@@ -61,6 +61,15 @@
 
 </details><details>
 <summary>
+<b>11주차 - 문제풀이 연습 2</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2246">2246</a> | <a href="/week11_2/BOJ_2246_브론즈1_콘도선정">콘도선정 |  ❌ | ❌ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
 <b>2주차 - 누적합&투포인터</b>
 </summary>
 
