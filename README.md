@@ -74,6 +74,30 @@
 
 </details><details>
 <summary>
+<b>12주차 - 문제풀이 연습 1</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1262">1262</a> | <a href="/week12_1/BOJ_1262_실버1_알파벳다이아몬드">알파벳다이아몬드 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/14575">14575</a> | <a href="/week12_1/BOJ_14575_실버1_뒤풀이">뒤풀이 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2314">2314</a> | <a href="/week12_1/BOJ_2314_골드3_이세계게임">이세계게임 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/3.svg" alt="브론즈3" width="20" /> | <a href="http://boj.kr/28417">28417</a> | <a href="/week12_1/BOJ_28417_브론즈3_스케이트보드">스케이트보드 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
+<b>12주차 - 문제풀이 연습 2</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/1244">1244</a> | <a href="/week12_2/BOJ_1244_실버4_스위치켜고끄기">스위치켜고끄기 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1672">1672</a> | <a href="/week12_2/BOJ_1672_브론즈1_DNA해독">DNA해독 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2922">2922</a> | <a href="/week12_2/BOJ_2922_골드4_즐거운단어">즐거운단어 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3077">3077</a> | <a href="/week12_2/BOJ_3077_실버3_임진왜란">임진왜란 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
 <b>2주차 - 누적합&투포인터</b>
 </summary>
 
