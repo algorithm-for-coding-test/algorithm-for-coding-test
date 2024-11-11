@@ -66,11 +66,11 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1277">1277</a> | <a href="/week11_2/BOJ_1277_골드4_발전소설치">발전소설치 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/1337">1337</a> | <a href="/week11_2/BOJ_1337_실버4_올바른배열">올바른배열 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/1277">1277</a> | <a href="/week11_2/BOJ_1277_골드4_발전소설치">발전소설치 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/1337">1337</a> | <a href="/week11_2/BOJ_1337_실버4_올바른배열">올바른배열 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/1460">1460</a> | <a href="/week11_2/BOJ_1460_골드3_진욱이의농장">진욱이의농장 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2246">2246</a> | <a href="/week11_2/BOJ_2246_브론즈1_콘도선정">콘도선정 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2876">2876</a> | <a href="/week11_2/BOJ_2876_실버3_그래픽스퀴즈">그래픽스퀴즈 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2246">2246</a> | <a href="/week11_2/BOJ_2246_브론즈1_콘도선정">콘도선정 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/2876">2876</a> | <a href="/week11_2/BOJ_2876_실버3_그래픽스퀴즈">그래픽스퀴즈 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
@@ -91,10 +91,11 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/1244">1244</a> | <a href="/week12_2/BOJ_1244_실버4_스위치켜고끄기">스위치켜고끄기 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1672">1672</a> | <a href="/week12_2/BOJ_1672_브론즈1_DNA해독">DNA해독 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2922">2922</a> | <a href="/week12_2/BOJ_2922_골드4_즐거운단어">즐거운단어 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3077">3077</a> | <a href="/week12_2/BOJ_3077_실버3_임진왜란">임진왜란 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/7.svg" alt="실버4" width="20" /> | <a href="http://boj.kr/1244">1244</a> | <a href="/week12_2/BOJ_1244_실버4_스위치켜고끄기">스위치켜고끄기 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/14220">14220</a> | <a href="/week12_2/BOJ_14220_골드3_양아치집배원">양아치집배원 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1672">1672</a> | <a href="/week12_2/BOJ_1672_브론즈1_DNA해독">DNA해독 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/2922">2922</a> | <a href="/week12_2/BOJ_2922_골드4_즐거운단어">즐거운단어 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/3077">3077</a> | <a href="/week12_2/BOJ_3077_실버3_임진왜란">임진왜란 |  ✔ | ✔ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
