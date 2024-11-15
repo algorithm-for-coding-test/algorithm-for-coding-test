@@ -99,6 +99,18 @@
 
 </details><details>
 <summary>
+<b>13주차 - 문제풀이 연습 1</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1032">1032</a> | <a href="/week13_1/BOJ_1032_브론즈1_명령프롬프트">명령프롬프트 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/1351">1351</a> | <a href="/week13_1/BOJ_1351_골드5_무한수열">무한수열 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/2156">2156</a> | <a href="/week13_1/BOJ_2156_실버1_포도주시식">포도주시식 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/9079">9079</a> | <a href="/week13_1/BOJ_9079_실버2_동전게임">동전게임 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
 <b>2주차 - 누적합&투포인터</b>
 </summary>
 
