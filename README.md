@@ -112,6 +112,29 @@
 
 </details><details>
 <summary>
+<b>13주차 - 문제풀이 연습 2</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1236">1236</a> | <a href="/week13_2/BOJ_1236_브론즈1_성지키기">성지키기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/3005">3005</a> | <a href="/week13_2/BOJ_3005_실버2_크로스워드퍼즐쳐다보기">크로스워드퍼즐쳐다보기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/6581">6581</a> | <a href="/week13_2/BOJ_6581_골드5_HTML">HTML |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
+<b>14주차 - 문제풀이 연습 2</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/12865">12865</a> | <a href="/week14_2/BOJ_12865_골드5_평범한배낭">평범한배낭 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/17390">17390</a> | <a href="/week14_2/BOJ_17390_실버3_이건꼭풀어야해">이건꼭풀어야해 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1855">1855</a> | <a href="/week14_2/BOJ_1855_브론즈1_암호">암호 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2257">2257</a> | <a href="/week14_2/BOJ_2257_실버2_화학식량">화학식량 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
 <b>2주차 - 누적합&투포인터</b>
 </summary>
 
