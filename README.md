@@ -117,9 +117,22 @@
 
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1105">1105</a> | <a href="/week13_2/BOJ_1105_실버1_팔">팔 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1236">1236</a> | <a href="/week13_2/BOJ_1236_브론즈1_성지키기">성지키기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/3005">3005</a> | <a href="/week13_2/BOJ_3005_실버2_크로스워드퍼즐쳐다보기">크로스워드퍼즐쳐다보기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/6581">6581</a> | <a href="/week13_2/BOJ_6581_골드5_HTML">HTML |  ✔ | ❌ | ❌ | ❌ | ❌ |
+
+</details><details>
+<summary>
+<b>14주차 - 문제풀이 연습 1</b>
+</summary>
+
+| 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/16397">16397</a> | <a href="/week14_1/BOJ_16397_골드4_탈출">탈출 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/17391">17391</a> | <a href="/week14_1/BOJ_17391_실버1_무한부스터">무한부스터 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2456">2456</a> | <a href="/week14_1/BOJ_2456_브론즈1_나는학급회장이다">나는학급회장이다 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/2866">2866</a> | <a href="/week14_1/BOJ_2866_골드5_문자열잘라내기">문자열잘라내기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
@@ -132,6 +145,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/8.svg" alt="실버3" width="20" /> | <a href="http://boj.kr/17390">17390</a> | <a href="/week14_2/BOJ_17390_실버3_이건꼭풀어야해">이건꼭풀어야해 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/1855">1855</a> | <a href="/week14_2/BOJ_1855_브론즈1_암호">암호 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/9.svg" alt="실버2" width="20" /> | <a href="http://boj.kr/2257">2257</a> | <a href="/week14_2/BOJ_2257_실버2_화학식량">화학식량 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/12.svg" alt="골드4" width="20" /> | <a href="http://boj.kr/9207">9207</a> | <a href="/week14_2/BOJ_9207_골드4_페그솔리테어">페그솔리테어 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
