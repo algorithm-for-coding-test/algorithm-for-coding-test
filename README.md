@@ -80,9 +80,10 @@
 | 플랫폼 | 레벨 | 문제 | 제목 | 김현창 | 김희연 | 이상학 | 지인성 | 현민수 | 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/1262">1262</a> | <a href="/week12_1/BOJ_1262_실버1_알파벳다이아몬드">알파벳다이아몬드 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/14575">14575</a> | <a href="/week12_1/BOJ_14575_실버1_뒤풀이">뒤풀이 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2314">2314</a> | <a href="/week12_1/BOJ_2314_골드3_이세계게임">이세계게임 |  ❌ | ✔ | ❌ | ❌ | ❌ |
-| 백준 | <img src="https://static.solved.ac/tier_small/3.svg" alt="브론즈3" width="20" /> | <a href="http://boj.kr/28417">28417</a> | <a href="/week12_1/BOJ_28417_브론즈3_스케이트보드">스케이트보드 |  ❌ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/14575">14575</a> | <a href="/week12_1/BOJ_14575_실버1_뒤풀이">뒤풀이 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/13.svg" alt="골드3" width="20" /> | <a href="http://boj.kr/2314">2314</a> | <a href="/week12_1/BOJ_2314_골드3_이세계게임">이세계게임 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/3.svg" alt="브론즈3" width="20" /> | <a href="http://boj.kr/28417">28417</a> | <a href="/week12_1/BOJ_28417_브론즈3_스케이트보드">스케이트보드 |  ✔ | ✔ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/15.svg" alt="골드1" width="20" /> | <a href="http://boj.kr/5626">5626</a> | <a href="/week12_1/BOJ_5626_골드1_제단">제단 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
@@ -133,6 +134,7 @@
 | 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/17391">17391</a> | <a href="/week14_1/BOJ_17391_실버1_무한부스터">무한부스터 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/5.svg" alt="브론즈1" width="20" /> | <a href="http://boj.kr/2456">2456</a> | <a href="/week14_1/BOJ_2456_브론즈1_나는학급회장이다">나는학급회장이다 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 | 백준 | <img src="https://static.solved.ac/tier_small/11.svg" alt="골드5" width="20" /> | <a href="http://boj.kr/2866">2866</a> | <a href="/week14_1/BOJ_2866_골드5_문자열잘라내기">문자열잘라내기 |  ✔ | ❌ | ❌ | ❌ | ❌ |
+| 백준 | <img src="https://static.solved.ac/tier_small/10.svg" alt="실버1" width="20" /> | <a href="http://boj.kr/32531">32531</a> | <a href="/week14_1/BOJ_32531_실버1_래환이의수강신청대작전">래환이의수강신청대작전 |  ✔ | ❌ | ❌ | ❌ | ❌ |
 
 </details><details>
 <summary>
